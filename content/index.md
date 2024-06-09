@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome!
 ---
 
-# Blogs
+# Writing
 - [[On Kelly Betting]]
